@@ -1,0 +1,8 @@
+C:\Users\sakshi\Desktop\SocketProgramming\SocketClientStarter\SocketClientStarter\bin\Debug\SocketClientStarter.exe.config
+C:\Users\sakshi\Desktop\SocketProgramming\SocketClientStarter\SocketClientStarter\bin\Debug\SocketClientStarter.exe
+C:\Users\sakshi\Desktop\SocketProgramming\SocketClientStarter\SocketClientStarter\bin\Debug\SocketClientStarter.pdb
+C:\Users\sakshi\Desktop\SocketProgramming\SocketClientStarter\SocketClientStarter\obj\Debug\SocketClientStarter.csproj.AssemblyReference.cache
+C:\Users\sakshi\Desktop\SocketProgramming\SocketClientStarter\SocketClientStarter\obj\Debug\SocketClientStarter.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakshi\Desktop\SocketProgramming\SocketClientStarter\SocketClientStarter\obj\Debug\SocketClientStarter.csproj.CoreCompileInputs.cache
+C:\Users\sakshi\Desktop\SocketProgramming\SocketClientStarter\SocketClientStarter\obj\Debug\SocketClientStarter.exe
+C:\Users\sakshi\Desktop\SocketProgramming\SocketClientStarter\SocketClientStarter\obj\Debug\SocketClientStarter.pdb
